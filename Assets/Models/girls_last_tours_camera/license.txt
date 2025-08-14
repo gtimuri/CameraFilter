@@ -1,0 +1,11 @@
+Model Information:
+* title:	Girls' Last Tour's Camera
+* source:	https://sketchfab.com/3d-models/girls-last-tours-camera-3ef888d1e82348718cc4e205c9d9369c
+* author:	LuShen2023 (https://sketchfab.com/LuShen2023)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Girls' Last Tour's Camera" (https://sketchfab.com/3d-models/girls-last-tours-camera-3ef888d1e82348718cc4e205c9d9369c) by LuShen2023 (https://sketchfab.com/LuShen2023) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
