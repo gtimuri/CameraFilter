@@ -13,10 +13,8 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _ENVIRONMENTREFLECTIONS_OFF
-  - _INTERSECTION_FOAM
   - _NORMALMAP
   - _RECEIVE_SHADOWS_OFF
-  - _SURFACE_FOAM
   - _UNLIT
   m_InvalidKeywords:
   - ADVANCED_LIGHTING
@@ -178,7 +176,7 @@ Material:
     - _FoamBubblesStrength: 0
     - _FoamClipping: 0
     - _FoamDistortion: 0.47
-    - _FoamOn: 1
+    - _FoamOn: 0
     - _FoamOpacity: 0.253
     - _FoamSize: 0.01
     - _FoamSpeed: 0.030000014
@@ -200,9 +198,10 @@ Material:
     - _IntersectionClipping: 0.428
     - _IntersectionDistortion: 0.2
     - _IntersectionFalloff: 1
-    - _IntersectionFoamOn: 1
+    - _IntersectionFoamOn: 0
     - _IntersectionLength: 1.79
     - _IntersectionRippleDist: 64
+    - _IntersectionRippleSpeed: 2
     - _IntersectionRippleStrength: 0.355
     - _IntersectionSharp: 1
     - _IntersectionSize: 0.944

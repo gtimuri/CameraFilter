@@ -7,28 +7,51 @@ public class GoodBadParkPortal : MonoBehaviour
     [SerializeField] private RawImage portalImage;
     [SerializeField] private RenderTexture goodTexture;
     [SerializeField] private RenderTexture badTexture;
-    [Header("VRCamera")] 
-    [SerializeField] private Camera altWorldCamera;
+    [Header("VRCamera")] [SerializeField] private Camera altWorldCamera;
     [SerializeField] private Camera[] changeCameras;
     [SerializeField] private LayerMask goodLayerMask;
     [SerializeField] private LayerMask badLayerMask;
 
-    private bool _isGood = true;
+    private static bool _isGood = true;
+    private static event Action OnGoodUpdated;
+
+    private static bool IsGood
+    {
+        get => _isGood;
+        set
+        {
+            _isGood = value;
+            OnGoodUpdated?.Invoke();
+        }
+    }
+
+    private void OnEnable()
+    {
+        OnGoodUpdated += UpdateStatus;
+    }
+
+    private void OnDisable()
+    {
+        OnGoodUpdated -= UpdateStatus;
+    }
 
     private void Start()
     {
-        SetTexture();
-        SetCameras();
+        UpdateStatus();
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        if(!other.CompareTag("Player"))
+        if (!other.CompareTag("Player"))
             return;
-        
-        _isGood = !_isGood;
-        SetCameras();
+
+        IsGood = !IsGood;
+    }
+
+    private void UpdateStatus()
+    {
         SetTexture();
+        SetCameras();
     }
 
     private void SetTexture()

@@ -6,6 +6,14 @@ public class ChangeDayNight : MonoBehaviour
     [Tooltip("Наборы выпеченного света (день/ночь и т.д.)")]
     public LightingScenarioData[] scenarios;
 
+    private int _currentLightIndex;
+
+    public void Change()
+    {
+        _currentLightIndex = _currentLightIndex == 0 ? 1 : 0;
+        ApplyScenario(_currentLightIndex);
+    }
+    
     public void ApplyScenario(int index)
     {
         if (scenarios == null || scenarios.Length == 0)

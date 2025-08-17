@@ -15,10 +15,8 @@ Material:
   - _ADVANCED_SHADING
   - _CAUSTICS
   - _DISTANCE_NORMALS
-  - _INTERSECTION_FOAM
   - _NORMALMAP
   - _REFRACTION
-  - _SURFACE_FOAM
   - _TRANSLUCENCY
   - _WAVES
   m_InvalidKeywords:
@@ -181,7 +179,7 @@ Material:
     - _FoamBubblesStrength: 1
     - _FoamClipping: 0
     - _FoamDistortion: 0.1
-    - _FoamOn: 1
+    - _FoamOn: 0
     - _FoamOpacity: 0.104
     - _FoamSize: 0.01
     - _FoamSpeed: 0.050000012
@@ -203,9 +201,10 @@ Material:
     - _IntersectionClipping: 0.605
     - _IntersectionDistortion: 0.2
     - _IntersectionFalloff: 1
-    - _IntersectionFoamOn: 1
+    - _IntersectionFoamOn: 0
     - _IntersectionLength: 2.03
     - _IntersectionRippleDist: 32
+    - _IntersectionRippleSpeed: 2
     - _IntersectionRippleStrength: 0.547
     - _IntersectionSharp: 1
     - _IntersectionSize: 0.944

@@ -5,6 +5,17 @@ TagManager:
   serializedVersion: 3
   tags:
   - ParkTrigger
+  - SamplesInfoPanel
+  - QDSUIBackplateGradient
+  - QDSUITooltip
+  - QDSUIToggleButton
+  - QDSUIToggleBorderlessButton
+  - QDSUIIcon
+  - QDSUISection
+  - QDSUITextSecondaryColor
+  - QDSUISecondaryButton
+  - QDSUIAccentColor
+  - LakeTrigger
   layers:
   - Default
   - TransparentFX
