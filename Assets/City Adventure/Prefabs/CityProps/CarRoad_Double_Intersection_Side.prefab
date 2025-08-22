@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 442184}
   - component: {fileID: 3395408}
   - component: {fileID: 2340682}
-  - component: {fileID: 6471256}
+  - component: {fileID: 6282850321689084504}
   m_Layer: 0
   m_Name: CarRoad_Double_Intersection_Side
   m_TagString: Untagged
@@ -87,8 +87,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &6471256
-MeshCollider:
+--- !u!65 &6282850321689084504
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -105,7 +105,6 @@ MeshCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: 69c7fd954dffb454bbf57d9e67e1e87d, type: 3}
+  serializedVersion: 3
+  m_Size: {x: 20.000008, y: 0.49258533, z: 20.000017}
+  m_Center: {x: 0.0000019073486, y: 0.24629171, z: 0.000007629394}

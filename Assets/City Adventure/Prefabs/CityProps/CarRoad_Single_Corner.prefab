@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 405176}
   - component: {fileID: 3394010}
   - component: {fileID: 2384714}
-  - component: {fileID: 6460534}
+  - component: {fileID: 5494619955829476992}
   m_Layer: 0
   m_Name: CarRoad_Single_Corner
   m_TagString: Untagged
@@ -87,8 +87,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &6460534
-MeshCollider:
+--- !u!65 &5494619955829476992
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -105,7 +105,6 @@ MeshCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: 15f638deb81e97e439d5096debcdd94f, type: 3}
+  serializedVersion: 3
+  m_Size: {x: 10, y: 0.4855957, z: 10}
+  m_Center: {x: 0, y: 0.24279885, z: -0.0000076293945}

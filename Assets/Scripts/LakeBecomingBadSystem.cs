@@ -1,5 +1,7 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.Audio;
+using UnityEngine.Serialization;
 
 public class LakeBecomingBadSystem : MonoBehaviour
 {
@@ -30,8 +32,10 @@ public class LakeBecomingBadSystem : MonoBehaviour
                 {
                     if (timeSlots[_curIdx].material)
                         meshRenderer.material = timeSlots[_curIdx].material;
-                    foreach (var o in timeSlots[_curIdx].objects) 
+                    foreach (var o in timeSlots[_curIdx].enableObjects) 
                         o.SetActive(true);
+                    foreach (var o in timeSlots[_curIdx].disableObjects) 
+                        o.SetActive(false);
                     _curIdx += 1;
                 }
             }
@@ -41,8 +45,10 @@ public class LakeBecomingBadSystem : MonoBehaviour
                 {
                     if (timeSlots[_curIdx].material)
                         meshRenderer.material = timeSlots[_curIdx].material;
-                    foreach (var o in timeSlots[_curIdx].objects) 
+                    foreach (var o in timeSlots[_curIdx].enableObjects) 
                         o.SetActive(false);
+                    foreach (var o in timeSlots[_curIdx].disableObjects) 
+                        o.SetActive(true);
                     _curIdx += 1;
                 }
             }
@@ -74,6 +80,7 @@ public class LakeBecomingBadSystem : MonoBehaviour
         public int order;
         public float time;
         public Material material;
-        public GameObject[] objects;
+        [FormerlySerializedAs("objects")] public GameObject[] enableObjects;
+        public GameObject[] disableObjects;
     }
 }

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 322530985573995821}
   - component: {fileID: 322530985572866029}
   - component: {fileID: 322530985570963339}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: TSP_Streetlight_01A
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64,7 +64,7 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
-  m_RenderingLayerMask: 1
+  m_RenderingLayerMask: 2
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 3a2b9314a175d694ebdee90b98c5563b, type: 2}
@@ -122,7 +122,7 @@ GameObject:
   - component: {fileID: 322530985571095823}
   - component: {fileID: 322530985573995823}
   - component: {fileID: 322530985572866031}
-  m_Layer: 7
+  m_Layer: 10
   m_Name: TSP_Streetlight_01A_Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -172,7 +172,7 @@ MeshRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
-  m_RenderingLayerMask: 1
+  m_RenderingLayerMask: 2
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 37c57a478282c7d4484e25cb4b41251d, type: 2}
@@ -208,7 +208,7 @@ GameObject:
   - component: {fileID: 6457058139409401448}
   - component: {fileID: 4986256836055575157}
   - component: {fileID: 7429259873945152650}
-  m_Layer: 7
+  m_Layer: 10
   m_Name: Spot Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -242,9 +242,9 @@ Light:
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 15
-  m_Range: 10
-  m_SpotAngle: 113.32904
-  m_InnerSpotAngle: 86.43324
+  m_Range: 15
+  m_SpotAngle: 76.03737
+  m_InnerSpotAngle: 61.572132
   m_CookieSize: 10
   m_Shadows:
     m_Type: 2
@@ -279,8 +279,8 @@ Light:
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_RenderingLayerMask: 1
-  m_Lightmapping: 1
+  m_RenderingLayerMask: 2
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -309,9 +309,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Version: 3
   m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 2
+  m_AdditionalLightsShadowResolutionTier: 0
   m_LightLayerMask: 1
-  m_RenderingLayers: 1
+  m_RenderingLayers: 2
   m_CustomShadowLayers: 0
   m_ShadowLayerMask: 1
   m_ShadowRenderingLayers: 1

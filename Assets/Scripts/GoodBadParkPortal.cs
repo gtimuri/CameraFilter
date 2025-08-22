@@ -4,13 +4,12 @@ using UnityEngine.UI;
 
 public class GoodBadParkPortal : MonoBehaviour
 {
-    [SerializeField] private RawImage portalImage;
-    [SerializeField] private RenderTexture goodTexture;
-    [SerializeField] private RenderTexture badTexture;
     [Header("VRCamera")] [SerializeField] private Camera altWorldCamera;
     [SerializeField] private Camera[] changeCameras;
     [SerializeField] private LayerMask goodLayerMask;
     [SerializeField] private LayerMask badLayerMask;
+    [Space]
+    [SerializeField] private MuteMixer[] muteMixers;
 
     private static bool _isGood = true;
     private static event Action OnGoodUpdated;
@@ -50,21 +49,22 @@ public class GoodBadParkPortal : MonoBehaviour
 
     private void UpdateStatus()
     {
-        SetTexture();
-        SetCameras();
-    }
-
-    private void SetTexture()
-    {
-        portalImage.texture = _isGood ? badTexture : goodTexture;
-    }
-
-    private void SetCameras()
-    {
+        foreach (var muteMixer in muteMixers)
+        {
+            muteMixer.audioSource.mute 
+                = _isGood ? muteMixer.isMutedWhenGoodSide : !muteMixer.isMutedWhenGoodSide;
+        }
         altWorldCamera.cullingMask = _isGood ? badLayerMask : goodLayerMask;
         foreach (var cam in changeCameras)
         {
             cam.cullingMask = _isGood ? goodLayerMask : badLayerMask;
         }
+    }
+
+    [Serializable]
+    public class MuteMixer
+    {
+        public AudioSource audioSource;
+        public bool isMutedWhenGoodSide;
     }
 }

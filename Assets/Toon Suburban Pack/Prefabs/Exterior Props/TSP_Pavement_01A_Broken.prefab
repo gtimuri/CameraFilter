@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2595154077053090385}
   - component: {fileID: 2595154077051763313}
   - component: {fileID: 2595154077050665137}
+  - component: {fileID: 5582776580195495625}
   m_Layer: 7
   m_Name: TSP_Pavement_01A_Broken
   m_TagString: Untagged
@@ -86,3 +87,24 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &5582776580195495625
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2595154077052593777}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.9800471, y: 0.01, z: 1.9890332}
+  m_Center: {x: 0.0015209317, y: 0.005, z: 0.00800702}

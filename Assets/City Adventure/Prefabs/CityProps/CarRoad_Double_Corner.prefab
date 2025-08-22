@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 404710}
   - component: {fileID: 3368362}
   - component: {fileID: 2322602}
-  - component: {fileID: 6462424}
+  - component: {fileID: 9182478671942382149}
   m_Layer: 0
   m_Name: CarRoad_Double_Corner
   m_TagString: Untagged
@@ -87,8 +87,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &6462424
-MeshCollider:
+--- !u!65 &9182478671942382149
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -105,7 +105,6 @@ MeshCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: 1bbd59995abae0e45b341c28d1d726a4, type: 3}
+  serializedVersion: 3
+  m_Size: {x: 20.00001, y: 0.48559567, z: 20.000008}
+  m_Center: {x: -0.00001001358, y: 0.24280015, z: 0.000023841858}

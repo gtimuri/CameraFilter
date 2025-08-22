@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 412066}
   - component: {fileID: 3343648}
   - component: {fileID: 2302228}
-  - component: {fileID: 6445542}
+  - component: {fileID: 3027052400397130081}
   m_Layer: 0
   m_Name: CarRoad_Double_End
   m_TagString: Untagged
@@ -87,8 +87,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &6445542
-MeshCollider:
+--- !u!65 &3027052400397130081
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -105,7 +105,6 @@ MeshCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: 69e159db3eba1e246978ff8aaaf5e650, type: 3}
+  serializedVersion: 3
+  m_Size: {x: 19.999996, y: 0.48559567, z: 10.00001}
+  m_Center: {x: 0.00001001358, y: 0.24279626, z: 0}

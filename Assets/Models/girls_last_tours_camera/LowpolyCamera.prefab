@@ -117,8 +117,6 @@ GameObject:
   - component: {fileID: 3360868606045841841}
   - component: {fileID: 6312644044276248810}
   - component: {fileID: 8293553520120800079}
-  - component: {fileID: 5425552168842363408}
-  - component: {fileID: 1255245719097653741}
   m_Layer: 6
   m_Name: CameraScreen
   m_TagString: Untagged
@@ -194,56 +192,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &5425552168842363408
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 352264913529654474}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &1255245719097653741
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 352264913529654474}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9df3d3664ab90104a97d89aac4425239, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  shapeLayer:
-    serializedVersion: 2
-    m_Bits: 0
-  renderingShape: 1
-  shapeMat: {fileID: 2100000, guid: 0d00ef18d0524ae4aac127eb1f0c5ee3, type: 2}
-  borderMat: {fileID: 2100000, guid: 0d00ef18d0524ae4aac127eb1f0c5ee3, type: 2}
-  quad1: {fileID: 0}
-  quad2: {fileID: 0}
-  quad3: {fileID: 0}
-  quad4: {fileID: 0}
-  viewCamera: {fileID: 0}
-  intersectionLayer:
-    serializedVersion: 2
-    m_Bits: 0
-  circlePoint: {fileID: 0}
-  circleRadius: 300
 --- !u!1 &854328915644164330
 GameObject:
   m_ObjectHideFlags: 0

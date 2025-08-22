@@ -6,6 +6,7 @@ public class PortalButton : MonoBehaviour
     public Camera shotCamera;
     [Header("Park")] public BoxCollider parkPortal;
     [Header("Lake")] public BoxCollider lakePortal;
+    [Header("Factory")] public BoxCollider factoryPortal;
 
     private RaycastHit[] _hits;
 
@@ -28,6 +29,10 @@ public class PortalButton : MonoBehaviour
                 if (hit.collider != null && hit.collider.CompareTag("LakeTrigger"))
                 {
                     lakePortal.gameObject.SetActive(true);
+                }
+                if (hit.collider != null && hit.collider.CompareTag("FactoryTrigger"))
+                {
+                    factoryPortal.gameObject.SetActive(true);
                 }
             }
         }

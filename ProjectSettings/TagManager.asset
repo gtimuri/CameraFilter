@@ -16,6 +16,7 @@ TagManager:
   - QDSUISecondaryButton
   - QDSUIAccentColor
   - LakeTrigger
+  - FactoryTrigger
   layers:
   - Default
   - TransparentFX
