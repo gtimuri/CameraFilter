@@ -243,7 +243,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/2_2"
+    path: GLTF_created_0_rootJoint/_16/2_2
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -484,7 +484,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/3_3"
+    path: GLTF_created_0_rootJoint/_16/3_3
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -725,7 +725,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/4_4"
+    path: GLTF_created_0_rootJoint/_16/4_4
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -957,7 +957,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/1_5"
+    path: GLTF_created_0_rootJoint/_16/1_5
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1189,7 +1189,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/_15"
+    path: GLTF_created_0_rootJoint/_16/_15
   m_CompressedRotationCurves: []
   m_EulerCurves: []
   m_PositionCurves:
@@ -1361,7 +1361,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/1_6"
+    path: GLTF_created_0_rootJoint/_16/1_6
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1530,7 +1530,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/2_7"
+    path: GLTF_created_0_rootJoint/_16/2_7
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1699,7 +1699,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/3_8"
+    path: GLTF_created_0_rootJoint/_16/3_8
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1868,7 +1868,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/4_9"
+    path: GLTF_created_0_rootJoint/_16/4_9
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2037,7 +2037,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/5_10"
+    path: GLTF_created_0_rootJoint/_16/5_10
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2206,7 +2206,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/6_11"
+    path: GLTF_created_0_rootJoint/_16/6_11
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2375,7 +2375,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/7_12"
+    path: GLTF_created_0_rootJoint/_16/7_12
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2544,7 +2544,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/8_13"
+    path: GLTF_created_0_rootJoint/_16/8_13
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2776,7 +2776,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/_14"
+    path: GLTF_created_0_rootJoint/_16/_14
   m_ScaleCurves:
   - curve:
       serializedVersion: 2
@@ -3090,7 +3090,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/_0"
+    path: GLTF_created_0_rootJoint/_16/_0
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3268,7 +3268,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/_1"
+    path: GLTF_created_0_rootJoint/_16/_1
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3491,7 +3491,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/2_2"
+    path: GLTF_created_0_rootJoint/_16/2_2
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3696,7 +3696,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/3_3"
+    path: GLTF_created_0_rootJoint/_16/3_3
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3919,7 +3919,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/4_4"
+    path: GLTF_created_0_rootJoint/_16/4_4
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4151,7 +4151,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/1_5"
+    path: GLTF_created_0_rootJoint/_16/1_5
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -4311,7 +4311,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "GLTF_created_0_rootJoint/_16/_15"
+    path: GLTF_created_0_rootJoint/_16/_15
   m_FloatCurves: []
   m_PPtrCurves: []
   m_SampleRate: 60
@@ -4320,7 +4320,196 @@ AnimationClip:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
-    genericBindings: []
+    genericBindings:
+    - serializedVersion: 2
+      path: 243354461
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 2076231058
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3938300468
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 2566231079
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 556561075
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1151266251
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1697372948
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1246755796
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1505266290
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 195703069
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 2104454076
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3863275674
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 2542279399
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 784317156
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 1943676408
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 81597806
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 195703069
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 2104454076
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3863275674
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 2542279399
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 784317156
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
@@ -4332,7 +4521,7 @@ AnimationClip:
     m_Level: 0
     m_CycleOffset: 0
     m_HasAdditiveReferencePose: 0
-    m_LoopTime: 1
+    m_LoopTime: 0
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
     m_LoopBlendPositionY: 0
@@ -4576,7 +4765,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
-    path: "GLTF_created_0_rootJoint/_16/2_2"
+    path: GLTF_created_0_rootJoint/_16/2_2
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -4813,7 +5002,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
-    path: "GLTF_created_0_rootJoint/_16/2_2"
+    path: GLTF_created_0_rootJoint/_16/2_2
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -5050,7 +5239,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
-    path: "GLTF_created_0_rootJoint/_16/2_2"
+    path: GLTF_created_0_rootJoint/_16/2_2
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -5287,7 +5476,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
-    path: "GLTF_created_0_rootJoint/_16/2_2"
+    path: GLTF_created_0_rootJoint/_16/2_2
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -5533,7 +5722,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
-    path: "GLTF_created_0_rootJoint/_16/3_3"
+    path: GLTF_created_0_rootJoint/_16/3_3
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -5779,7 +5968,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
-    path: "GLTF_created_0_rootJoint/_16/3_3"
+    path: GLTF_created_0_rootJoint/_16/3_3
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -6025,7 +6214,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
-    path: "GLTF_created_0_rootJoint/_16/3_3"
+    path: GLTF_created_0_rootJoint/_16/3_3
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -6271,7 +6460,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
-    path: "GLTF_created_0_rootJoint/_16/3_3"
+    path: GLTF_created_0_rootJoint/_16/3_3
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -6517,7 +6706,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
-    path: "GLTF_created_0_rootJoint/_16/4_4"
+    path: GLTF_created_0_rootJoint/_16/4_4
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -6763,7 +6952,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
-    path: "GLTF_created_0_rootJoint/_16/4_4"
+    path: GLTF_created_0_rootJoint/_16/4_4
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -7009,7 +7198,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
-    path: "GLTF_created_0_rootJoint/_16/4_4"
+    path: GLTF_created_0_rootJoint/_16/4_4
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -7255,7 +7444,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
-    path: "GLTF_created_0_rootJoint/_16/4_4"
+    path: GLTF_created_0_rootJoint/_16/4_4
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -7492,7 +7681,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
-    path: "GLTF_created_0_rootJoint/_16/1_5"
+    path: GLTF_created_0_rootJoint/_16/1_5
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -7729,7 +7918,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
-    path: "GLTF_created_0_rootJoint/_16/1_5"
+    path: GLTF_created_0_rootJoint/_16/1_5
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -7966,7 +8155,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
-    path: "GLTF_created_0_rootJoint/_16/1_5"
+    path: GLTF_created_0_rootJoint/_16/1_5
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -8203,7 +8392,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
-    path: "GLTF_created_0_rootJoint/_16/1_5"
+    path: GLTF_created_0_rootJoint/_16/1_5
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -8440,7 +8629,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
-    path: "GLTF_created_0_rootJoint/_16/_15"
+    path: GLTF_created_0_rootJoint/_16/_15
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -8677,7 +8866,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
-    path: "GLTF_created_0_rootJoint/_16/_15"
+    path: GLTF_created_0_rootJoint/_16/_15
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -8914,7 +9103,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
-    path: "GLTF_created_0_rootJoint/_16/_15"
+    path: GLTF_created_0_rootJoint/_16/_15
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -9151,7 +9340,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
-    path: "GLTF_created_0_rootJoint/_16/_15"
+    path: GLTF_created_0_rootJoint/_16/_15
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -9325,7 +9514,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: "GLTF_created_0_rootJoint/_16/1_6"
+    path: GLTF_created_0_rootJoint/_16/1_6
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -9499,7 +9688,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: "GLTF_created_0_rootJoint/_16/1_6"
+    path: GLTF_created_0_rootJoint/_16/1_6
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -9673,7 +9862,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: "GLTF_created_0_rootJoint/_16/1_6"
+    path: GLTF_created_0_rootJoint/_16/1_6
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -9847,7 +10036,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: "GLTF_created_0_rootJoint/_16/2_7"
+    path: GLTF_created_0_rootJoint/_16/2_7
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -10021,7 +10210,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: "GLTF_created_0_rootJoint/_16/2_7"
+    path: GLTF_created_0_rootJoint/_16/2_7
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -10195,7 +10384,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: "GLTF_created_0_rootJoint/_16/2_7"
+    path: GLTF_created_0_rootJoint/_16/2_7
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -10369,7 +10558,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: "GLTF_created_0_rootJoint/_16/3_8"
+    path: GLTF_created_0_rootJoint/_16/3_8
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -10543,7 +10732,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: "GLTF_created_0_rootJoint/_16/3_8"
+    path: GLTF_created_0_rootJoint/_16/3_8
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -10717,7 +10906,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: "GLTF_created_0_rootJoint/_16/3_8"
+    path: GLTF_created_0_rootJoint/_16/3_8
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -10891,7 +11080,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: "GLTF_created_0_rootJoint/_16/4_9"
+    path: GLTF_created_0_rootJoint/_16/4_9
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -11065,7 +11254,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: "GLTF_created_0_rootJoint/_16/4_9"
+    path: GLTF_created_0_rootJoint/_16/4_9
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -11239,7 +11428,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: "GLTF_created_0_rootJoint/_16/4_9"
+    path: GLTF_created_0_rootJoint/_16/4_9
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -11413,7 +11602,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: "GLTF_created_0_rootJoint/_16/5_10"
+    path: GLTF_created_0_rootJoint/_16/5_10
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -11587,7 +11776,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: "GLTF_created_0_rootJoint/_16/5_10"
+    path: GLTF_created_0_rootJoint/_16/5_10
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -11761,7 +11950,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: "GLTF_created_0_rootJoint/_16/5_10"
+    path: GLTF_created_0_rootJoint/_16/5_10
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -11935,7 +12124,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: "GLTF_created_0_rootJoint/_16/6_11"
+    path: GLTF_created_0_rootJoint/_16/6_11
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -12109,7 +12298,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: "GLTF_created_0_rootJoint/_16/6_11"
+    path: GLTF_created_0_rootJoint/_16/6_11
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -12283,7 +12472,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: "GLTF_created_0_rootJoint/_16/6_11"
+    path: GLTF_created_0_rootJoint/_16/6_11
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -12457,7 +12646,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: "GLTF_created_0_rootJoint/_16/7_12"
+    path: GLTF_created_0_rootJoint/_16/7_12
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -12631,7 +12820,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: "GLTF_created_0_rootJoint/_16/7_12"
+    path: GLTF_created_0_rootJoint/_16/7_12
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -12805,7 +12994,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: "GLTF_created_0_rootJoint/_16/7_12"
+    path: GLTF_created_0_rootJoint/_16/7_12
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -12979,7 +13168,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: "GLTF_created_0_rootJoint/_16/8_13"
+    path: GLTF_created_0_rootJoint/_16/8_13
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -13153,7 +13342,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: "GLTF_created_0_rootJoint/_16/8_13"
+    path: GLTF_created_0_rootJoint/_16/8_13
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -13327,7 +13516,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: "GLTF_created_0_rootJoint/_16/8_13"
+    path: GLTF_created_0_rootJoint/_16/8_13
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -13564,7 +13753,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: "GLTF_created_0_rootJoint/_16/_14"
+    path: GLTF_created_0_rootJoint/_16/_14
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -13801,7 +13990,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: "GLTF_created_0_rootJoint/_16/_14"
+    path: GLTF_created_0_rootJoint/_16/_14
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -14038,7 +14227,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: "GLTF_created_0_rootJoint/_16/_14"
+    path: GLTF_created_0_rootJoint/_16/_14
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -14356,7 +14545,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: "GLTF_created_0_rootJoint/_16/_0"
+    path: GLTF_created_0_rootJoint/_16/_0
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -14674,7 +14863,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: "GLTF_created_0_rootJoint/_16/_0"
+    path: GLTF_created_0_rootJoint/_16/_0
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -14992,7 +15181,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: "GLTF_created_0_rootJoint/_16/_0"
+    path: GLTF_created_0_rootJoint/_16/_0
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -15175,7 +15364,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: "GLTF_created_0_rootJoint/_16/_1"
+    path: GLTF_created_0_rootJoint/_16/_1
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -15358,7 +15547,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: "GLTF_created_0_rootJoint/_16/_1"
+    path: GLTF_created_0_rootJoint/_16/_1
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -15541,7 +15730,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: "GLTF_created_0_rootJoint/_16/_1"
+    path: GLTF_created_0_rootJoint/_16/_1
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -15769,7 +15958,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: "GLTF_created_0_rootJoint/_16/2_2"
+    path: GLTF_created_0_rootJoint/_16/2_2
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -15997,7 +16186,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: "GLTF_created_0_rootJoint/_16/2_2"
+    path: GLTF_created_0_rootJoint/_16/2_2
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -16225,7 +16414,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: "GLTF_created_0_rootJoint/_16/2_2"
+    path: GLTF_created_0_rootJoint/_16/2_2
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -16435,7 +16624,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: "GLTF_created_0_rootJoint/_16/3_3"
+    path: GLTF_created_0_rootJoint/_16/3_3
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -16645,7 +16834,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: "GLTF_created_0_rootJoint/_16/3_3"
+    path: GLTF_created_0_rootJoint/_16/3_3
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -16855,7 +17044,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: "GLTF_created_0_rootJoint/_16/3_3"
+    path: GLTF_created_0_rootJoint/_16/3_3
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -17083,7 +17272,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: "GLTF_created_0_rootJoint/_16/4_4"
+    path: GLTF_created_0_rootJoint/_16/4_4
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -17311,7 +17500,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: "GLTF_created_0_rootJoint/_16/4_4"
+    path: GLTF_created_0_rootJoint/_16/4_4
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -17539,7 +17728,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: "GLTF_created_0_rootJoint/_16/4_4"
+    path: GLTF_created_0_rootJoint/_16/4_4
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -17776,7 +17965,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: "GLTF_created_0_rootJoint/_16/1_5"
+    path: GLTF_created_0_rootJoint/_16/1_5
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18013,7 +18202,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: "GLTF_created_0_rootJoint/_16/1_5"
+    path: GLTF_created_0_rootJoint/_16/1_5
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18250,7 +18439,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: "GLTF_created_0_rootJoint/_16/1_5"
+    path: GLTF_created_0_rootJoint/_16/1_5
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18415,7 +18604,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: "GLTF_created_0_rootJoint/_16/_15"
+    path: GLTF_created_0_rootJoint/_16/_15
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18580,7 +18769,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: "GLTF_created_0_rootJoint/_16/_15"
+    path: GLTF_created_0_rootJoint/_16/_15
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18745,7 +18934,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: "GLTF_created_0_rootJoint/_16/_15"
+    path: GLTF_created_0_rootJoint/_16/_15
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18983,7 +19172,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.x
-    path: "GLTF_created_0_rootJoint/_16/2_2"
+    path: GLTF_created_0_rootJoint/_16/2_2
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19220,7 +19409,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.y
-    path: "GLTF_created_0_rootJoint/_16/2_2"
+    path: GLTF_created_0_rootJoint/_16/2_2
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19457,7 +19646,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.z
-    path: "GLTF_created_0_rootJoint/_16/2_2"
+    path: GLTF_created_0_rootJoint/_16/2_2
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19703,7 +19892,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.x
-    path: "GLTF_created_0_rootJoint/_16/3_3"
+    path: GLTF_created_0_rootJoint/_16/3_3
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19949,7 +20138,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.y
-    path: "GLTF_created_0_rootJoint/_16/3_3"
+    path: GLTF_created_0_rootJoint/_16/3_3
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20195,7 +20384,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.z
-    path: "GLTF_created_0_rootJoint/_16/3_3"
+    path: GLTF_created_0_rootJoint/_16/3_3
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20441,7 +20630,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.x
-    path: "GLTF_created_0_rootJoint/_16/4_4"
+    path: GLTF_created_0_rootJoint/_16/4_4
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20687,7 +20876,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.y
-    path: "GLTF_created_0_rootJoint/_16/4_4"
+    path: GLTF_created_0_rootJoint/_16/4_4
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20933,7 +21122,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.z
-    path: "GLTF_created_0_rootJoint/_16/4_4"
+    path: GLTF_created_0_rootJoint/_16/4_4
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21170,7 +21359,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.x
-    path: "GLTF_created_0_rootJoint/_16/1_5"
+    path: GLTF_created_0_rootJoint/_16/1_5
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21407,7 +21596,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.y
-    path: "GLTF_created_0_rootJoint/_16/1_5"
+    path: GLTF_created_0_rootJoint/_16/1_5
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21644,7 +21833,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.z
-    path: "GLTF_created_0_rootJoint/_16/1_5"
+    path: GLTF_created_0_rootJoint/_16/1_5
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -21881,7 +22070,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.x
-    path: "GLTF_created_0_rootJoint/_16/_15"
+    path: GLTF_created_0_rootJoint/_16/_15
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -22118,7 +22307,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.y
-    path: "GLTF_created_0_rootJoint/_16/_15"
+    path: GLTF_created_0_rootJoint/_16/_15
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -22355,7 +22544,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAngles.z
-    path: "GLTF_created_0_rootJoint/_16/_15"
+    path: GLTF_created_0_rootJoint/_16/_15
     classID: 4
     script: {fileID: 0}
     flags: 0
